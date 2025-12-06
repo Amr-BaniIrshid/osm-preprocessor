@@ -1,0 +1,7 @@
+osm\extractor\NodeCollector.class
+osm\utils\OsmUtils.class
+osm\config\CarFilterConfig.class
+osm\io\BinaryRecordWriter.class
+osm\model\TurnRestrictionType.class
+osm\extractor\CarRoutingExtractor.class
+osm\OsmPreprocessor.class
